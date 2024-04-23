@@ -1,4 +1,4 @@
 {
-"main": "./js/script.js",
-"scripts": { "build": "node ./js/script.js"}
+"main": "js61.js",
+"scripts": { "build": "node js61.js"}
 }
